@@ -1,0 +1,34 @@
+01/09/2020 23:47:18 : TestStatus : INFO : ### Verification Successful ### Title is Incorrect
+01/09/2020 23:47:25 : TestStatus : INFO : ### Verification Failed ### Login not successful
+01/09/2020 23:47:25 : TestStatus : INFO : Destination File NameC:\Users\sagar\PycharmProjects\LetsKodeIt\base\..\screenshots\Login not successful.1578631645186.png
+01/09/2020 23:47:25 : TestStatus : INFO : Destination DirectorC:\Users\sagar\PycharmProjects\LetsKodeIt\base\..\screenshots\
+01/09/2020 23:47:25 : TestStatus : INFO : Screenshot saved to C:\Users\sagar\PycharmProjects\LetsKodeIt\base\..\screenshots\Login not successful.1578631645186.png
+01/09/2020 23:47:25 : TestStatus : ERROR : test_validLogin ### Test Failed
+cator: commit and locator_type: name
+01/09/2020 23:46:46 : BasePage : INFO : Clicked Element with locator: commit and locator_type: name
+01/09/2020 23:46:46 : BasePage : INFO : Found Element with locator: //div[@id='navbar']//li[@class='dropdown'] and locator_type: xpath
+01/09/2020 23:46:51 : BasePage : INFO : Clicked Element with locator: //div[@id='navbar']//li[@class='dropdown'] and locator_type: xpath
+01/09/2020 23:46:51 : BasePage : INFO : Found Element with locator: //a[contains(text(),'Log Out')] and locator_type: xpath
+01/09/2020 23:46:59 : BasePage : INFO : Clicked Element with locator: //a[contains(text(),'Log Out')] and locator_type: xpath
+01/09/2020 23:46:59 : BasePage : INFO : Found Element with locator: //a[@href='/sign_in'] and locator_type: xpath
+01/09/2020 23:46:59 : BasePage : INFO : Clicked Element with locator: //a[@href='/sign_in'] and locator_type: xpath
+01/09/2020 23:47:02 : BasePage : INFO : Found Element with locator: user_email and locator_type: id
+01/09/2020 23:47:02 : BasePage : INFO : Sent data to Element with locator: user_email and locator_type: id
+01/09/2020 23:47:02 : BasePage : INFO : Found Element with locator: user_password and locator_type: id
+01/09/2020 23:47:02 : BasePage : INFO : Sent data to Element with locator: user_password and locator_type: id
+01/09/2020 23:47:02 : BasePage : INFO : Found Element with locator: commit and locator_type: name
+01/09/2020 23:47:05 : BasePage : INFO : Clicked Element with locator: commit and locator_type: name
+01/09/2020 23:47:05 : BasePage : INFO : Element present with locator: //div[contains(text(),'Invalid email or password')] and locator_type: xpath
+01/09/2020 23:47:05 : BasePage : INFO : Found Element with locator: user_email and locator_type: id
+01/09/2020 23:47:05 : BasePage : INFO : Clear data to Element with locator: user_email and locator_type: id
+01/09/2020 23:47:05 : BasePage : INFO : Found Element with locator: user_password and locator_type: id
+01/09/2020 23:47:05 : BasePage : INFO : Clear data to Element with locator: user_password and locator_type: id
+01/09/2020 23:47:12 : BasePage : ERROR : Element Not Found with locator: //a[@href='/sign_in'] and locator_type: xpath
+01/09/2020 23:47:12 : BasePage : ERROR : Not able to click element with locator: //a[@href='/sign_in'] and locator_type: xpath
+01/09/2020 23:47:12 : BasePage : INFO : Found Element with locator: user_email and locator_type: id
+01/09/2020 23:47:12 : BasePage : INFO : Sent data to Element with locator: user_email and locator_type: id
+01/09/2020 23:47:12 : BasePage : INFO : Found Element with locator: user_password and locator_type: id
+01/09/2020 23:47:12 : BasePage : INFO : Sent data to Element with locator: user_password and locator_type: id
+01/09/2020 23:47:12 : BasePage : INFO : Found Element with locator: commit and locator_type: name
+01/09/2020 23:47:18 : BasePage : INFO : Clicked Element with locator: commit and locator_type: name
+01/09/2020 23:47:25 : BasePage : ERROR : Element not present with locator: {locator} and locator_type: {locator_type}'
