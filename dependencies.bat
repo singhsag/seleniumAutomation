@@ -6,3 +6,4 @@ pip install requests
 pip install jsonpath
 pip install pytest-bdd
 pip install ddt
+pip install allure-pytest
